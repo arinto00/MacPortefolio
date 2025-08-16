@@ -83,8 +83,8 @@ const BootScreen = () => {
     <div style={bootStyle}>
       <div style={contentStyle}>
         <div style={logoStyle}>💻</div>
-        <h1 style={titleStyle}>Your Name</h1>
-        <p style={subtitleStyle}>Digital Solutions Developer</p>
+        <h1 style={titleStyle}>Miguel Gonçalves</h1>
+        <p style={subtitleStyle}>Software Developer & Product Manager</p>
         <p style={{ fontSize: '14px', color: '#6b7280', marginBottom: '16px' }}>
           Initializing portfolio system...
         </p>
